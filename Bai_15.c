@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //hii
 
 void out (int a[], int size);
 void check_array (int a[], int size);
